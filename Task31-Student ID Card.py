@@ -1,0 +1,13 @@
+name= input()
+id=input()
+dep= input()
+year=int(input())
+uni= input()
+pn=int(input())
+
+print("Name: "+name)
+print("ID: "+id)
+print("Department: "+dep)
+print("Year: "+str(year))
+print("University: "+uni)
+print("Phone: "+str(pn))
